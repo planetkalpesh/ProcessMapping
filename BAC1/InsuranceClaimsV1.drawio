@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-05-19T06:05:06.300Z" agent="5.0 (Windows)" version="13.1.2" etag="9_mnFIp__Dq2smGrk7QN" type="github"><diagram id="hZSZITYBWogTeSslolz0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-19T06:08:57.600Z" agent="5.0 (Windows)" etag="JmSv9AEFXUE-c8ViB0Wd" version="13.1.2" type="github">
+  <diagram id="hZSZITYBWogTeSslolz0" name="Page-1">
+    <mxGraphModel dx="1231" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Aw5x39bk4L40joNCaLyG-1" value="Insurance Claims Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="885" y="15" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-2" value="Kalpesh Patil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="63" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-3" target="Aw5x39bk4L40joNCaLyG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-3" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="175" y="248" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-4" target="Aw5x39bk4L40joNCaLyG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-4" value="Submit Claims" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="175" y="358" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-5" target="Aw5x39bk4L40joNCaLyG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-5" value="Send Forms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="355" y="358" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-7" target="Aw5x39bk4L40joNCaLyG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-7" value="Complete Forms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="535" y="358" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-9" target="Aw5x39bk4L40joNCaLyG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-9" value="Submit Forms" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="715" y="358" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-11" target="Aw5x39bk4L40joNCaLyG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-11" value="Register Claim" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="895" y="358" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Aw5x39bk4L40joNCaLyG-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="895" y="518" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
