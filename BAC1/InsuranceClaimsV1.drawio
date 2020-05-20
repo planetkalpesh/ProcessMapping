@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-20T05:41:44.400Z" agent="5.0 (Windows)" etag="VvzIT7AfsuCa3SPo_7cn" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-20T05:58:26.100Z" agent="5.0 (Windows)" etag="AN8ohlwiXafteLbO63e0" version="13.1.3" type="github">
   <diagram id="hZSZITYBWogTeSslolz0" name="InsuranceClaims">
     <mxGraphModel dx="1231" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -27,18 +27,6 @@
         </mxCell>
         <mxCell id="7K33NGVJJ7r5UL6R2oZ9-17" value="Reject Claims" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="225" y="400" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-5" target="Aw5x39bk4L40joNCaLyG-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Aw5x39bk4L40joNCaLyG-5" value="&lt;div&gt;Send Simple&lt;/div&gt;&lt;div&gt;Forms&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="610" y="83" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-4" target="Aw5x39bk4L40joNCaLyG-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-4" value="&lt;div&gt;Send Complex&lt;/div&gt;&lt;div&gt;Forms&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="323" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7K33NGVJJ7r5UL6R2oZ9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=15;" edge="1" parent="1" source="Aw5x39bk4L40joNCaLyG-7" target="Aw5x39bk4L40joNCaLyG-9">
           <mxGeometry relative="1" as="geometry" />
@@ -99,18 +87,36 @@
         <mxCell id="7K33NGVJJ7r5UL6R2oZ9-10" value="&lt;div&gt;Forms&lt;/div&gt;&lt;div&gt;Complete?&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="980" y="555" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-7" value="Complex" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-3" target="7K33NGVJJ7r5UL6R2oZ9-4">
+        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-7" value="Complex" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-3" target="7K33NGVJJ7r5UL6R2oZ9-34">
           <mxGeometry x="0.2381" relative="1" as="geometry">
+            <mxPoint x="609.9999999999998" y="373" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-8" value="Simple" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-3" target="Aw5x39bk4L40joNCaLyG-5">
+        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-8" value="Simple" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=15;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-3" target="7K33NGVJJ7r5UL6R2oZ9-33">
           <mxGeometry x="0.2381" relative="1" as="geometry">
+            <mxPoint x="609.9999999999998" y="133" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="178" />
+              <mxPoint x="630" y="178" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7K33NGVJJ7r5UL6R2oZ9-3" value="&lt;div&gt;Claim&lt;/div&gt;&lt;div&gt;Severity?&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="410" y="198" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=15;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-33" target="Aw5x39bk4L40joNCaLyG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-33" value="Send Simple Forms" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="153" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontSize=15;" edge="1" parent="1" source="7K33NGVJJ7r5UL6R2oZ9-34" target="Aw5x39bk4L40joNCaLyG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7K33NGVJJ7r5UL6R2oZ9-34" value="&lt;div&gt;Send Complex &lt;br&gt;&lt;/div&gt;&lt;div&gt;Forms&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="308" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
